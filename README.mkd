@@ -1,0 +1,5 @@
+#smart-version-overview
+
+I wanted an simple versions overview of the installed software. An dpkg -l works great but its a lot of uncomfortable.
+The small script makes a comfortable overview with the actually versions.
+Actually in Redmine wiki syntax.
