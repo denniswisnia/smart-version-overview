@@ -1,7 +1,13 @@
-apache2-common
-zsh
-php5
+linux-image
+apache2
 mysql-common
 mysqld
 memcached
-
+php5
+munin
+nagios
+nfs-common
+sshd
+openssh-server
+ufw
+iptables
