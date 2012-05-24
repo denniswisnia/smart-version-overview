@@ -1,0 +1,7 @@
+apache2-common
+zsh
+php5
+mysql-common
+mysqld
+memcached
+
